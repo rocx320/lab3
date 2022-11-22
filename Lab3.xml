@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="lab3-style.xsl" type="text/xsl"?>
+<freelance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lab3.xsd">
+ 
+    <freelancer>
+        <name>Hemant Dutta</name>
+        <id>2247216</id>
+        <contact>
+            <email>hemantdutta123@gmail.com</email>
+            <phone>9988833112</phone>
+        </contact>
+        <work>
+            <portfolio>Web Dev</portfolio>
+            <review>5 Stars</review>
+        </work>
+    </freelancer>
+
+    <freelancer>
+        <name>Siddharth Raj</name>
+        <id>2247234</id>
+        <contact>
+            <email>siddharthraj123@gmail.com</email>
+            <phone>9988833113</phone>
+        </contact>
+        <work>
+            <portfolio>Data Engg</portfolio>
+            <review>5 Stars</review>
+        </work>
+    </freelancer>
+
+    <freelancer>
+        <name>Sarthak Mathur</name>
+        <id>2247262</id>
+        <contact>
+            <email>sarthakmathur123@gmail.com</email>
+            <phone>9988833110</phone>
+        </contact>
+        <work>
+            <portfolio>Java Dev</portfolio>
+            <review>5 Stars</review>
+        </work>
+    </freelancer>
+
+    <freelancer>
+        <name>Rohan Shaw</name>
+        <id>2247231</id>
+        <contact>
+            <email>rohanshaw123@gmail.com</email>
+            <phone>9988833111</phone>
+        </contact>
+        <work>
+            <portfolio>AI</portfolio>
+            <review>5 Stars</review>
+        </work>
+    </freelancer>
+</freelance>
